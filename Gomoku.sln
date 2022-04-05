@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GomokuServiceHost", "GomokuServiceHost\GomokuServiceHost.csproj", "{BEFFC4BC-D492-4453-97CF-50EE2F3A8AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GomokuLibrary", "GomokuLibrary\GomokuLibrary.csproj", "{28A5CB4A-A344-4D6F-B293-FF89541E0997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GomokuGUIClient", "GomokuGUIClient\GomokuGUIClient.csproj", "{F57B426C-0EA0-41FD-84C8-A35FF28696CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFFC4BC-D492-4453-97CF-50EE2F3A8AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFFC4BC-D492-4453-97CF-50EE2F3A8AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFFC4BC-D492-4453-97CF-50EE2F3A8AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFFC4BC-D492-4453-97CF-50EE2F3A8AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A5CB4A-A344-4D6F-B293-FF89541E0997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A5CB4A-A344-4D6F-B293-FF89541E0997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A5CB4A-A344-4D6F-B293-FF89541E0997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A5CB4A-A344-4D6F-B293-FF89541E0997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57B426C-0EA0-41FD-84C8-A35FF28696CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57B426C-0EA0-41FD-84C8-A35FF28696CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57B426C-0EA0-41FD-84C8-A35FF28696CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57B426C-0EA0-41FD-84C8-A35FF28696CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996BD080-1AC7-4AC5-A320-63C9B53E0DF4}
+	EndGlobalSection
+EndGlobal
